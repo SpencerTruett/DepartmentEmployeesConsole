@@ -1,0 +1,13 @@
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\bin\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.exe
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\bin\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.deps.json
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\bin\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.runtimeconfig.json
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\bin\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.runtimeconfig.dev.json
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\bin\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.dll
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\bin\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.pdb
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\obj\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.csprojAssemblyReference.cache
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\obj\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.csproj.CoreCompileInputs.cache
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\obj\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.AssemblyInfoInputs.cache
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\obj\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.AssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\obj\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.dll
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\obj\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.pdb
+C:\Users\gilde\workspace\csharp\DepartmentsEmployeesConsole\DepartmentsEmployeesConsole\obj\Debug\netcoreapp3.1\DepartmentsEmployeesConsole.genruntimeconfig.cache
