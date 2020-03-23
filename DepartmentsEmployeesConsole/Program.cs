@@ -6,6 +6,11 @@ namespace DepartmentsEmployeesConsole
     {
         static void Main(string[] args)
         {
+
+
+            // Below this point is the start of the departments
+
+
             DepartmentRepository departmentRepo = new DepartmentRepository();
             Console.WriteLine("Getting All Departments:");;
 
@@ -34,6 +39,40 @@ namespace DepartmentsEmployeesConsole
 
             Console.WriteLine("-------------------------------");
             Console.WriteLine("Added the new Legal Department!");
+
+
+            // Below this point is the start of the employees
+
+
+            EmployeeRepository employeeRepo = new EmployeeRepository();
+            Console.WriteLine("Getting All Employees:"); ;
+
+            Console.WriteLine();
+
+            List<Employee> allEmployees = employeeRepo.GetAllEmployees();
+
+            foreach (Employee emp in allEmployees)
+            {
+                Console.WriteLine($"{emp.Id} {emp.FirstName} {emp.LastName}");
+
+                Console.WriteLine("----------------------------");
+                Console.WriteLine("Getting Employee with Id 1");
+
+                Employee singleEmployee = employeeRepo.GetEmployeeById(1);
+
+                Console.WriteLine($"{singleEmployee.Id} {singleEmployee.FirstName} {singleEmployee.FirstName}");
+            }
+
+            Employee samSmith = new Employee
+            {
+                FirstName = "Sam",
+                LastName = "Smith"
+            };
+
+            employeeRepo.AddEmployee(samSmith);
+
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("Added the new Employee!");
         }
     }
 }
