@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using DepartmentsEmployees.Models;
+using Microsoft.Data.SqlClient;
 
 namespace DepartmentsEmployees.Data
 {

@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using DepartmentsEmployees.Models;
+using Microsoft.Data.SqlClient;
 
 namespace DepartmentsEmployees.Data
 {
@@ -133,7 +134,7 @@ namespace DepartmentsEmployees.Data
                     // These SQL parameters are annoying. Why can't we use string interpolation?
                     // ... sql injection attacks!!!
                     cmd.CommandText = "INSERT INTO Department (DeptName) OUTPUT INSERTED.Id Values (@deptName)";
-                    cmd.Parameters.Add(new SqlParameter("@deptName", department.DepartmentName));
+                    cmd.Parameters.Add(new SqlParameter("@deptName", department.DeptName));
                     int id = (int)cmd.ExecuteScalar();
 
                     department.Id = id;
