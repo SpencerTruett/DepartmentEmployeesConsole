@@ -1,4 +1,7 @@
-﻿using System;
+﻿using DepartmentsEmployees.Data;
+using DepartmentsEmployees.Models;
+using System;
+using System.Collections.Generic;
 
 namespace DepartmentsEmployeesConsole
 {
